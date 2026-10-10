@@ -7,7 +7,9 @@ For people looking for work abroad who lose hours scrolling job boards, re-readi
 **Status:** live and open for public sign-up.
 
 <!-- progress:start -->
-x
+![progress](https://img.shields.io/badge/progress-91%25-2ea44f)
+
+`▓▓▓▓▓▓▓▓▓░ 91% (87/96 tasks)`
 <!-- progress:end -->
 
 ## Results so far
