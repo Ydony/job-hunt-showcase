@@ -1,8 +1,6 @@
 # Job Hunt
 
-**A personal job radar: finds English-friendly roles in Switzerland and the Netherlands, filters out the noise, and keeps the shortlist in one place.**
-
-For people looking for work abroad who lose hours scrolling job boards, re-reading the same ads and tracking applications in spreadsheets.
+**A personal job radar for English-friendly roles in Switzerland and the Netherlands.**
 
 **Status:** live and open for public sign-up.
 
@@ -12,32 +10,28 @@ For people looking for work abroad who lose hours scrolling job boards, re-readi
 `▓▓▓▓▓▓▓▓▓░ 91% (87/96 tasks)`
 <!-- progress:end -->
 
-## Results so far
+## The story
 
-- Runs online for anyone: sign up, verify your account, and every user's data stays separate.
-- Brings jobs from several public sources into one list, with duplicates removed.
-- Works on a phone as well as on a laptop.
-- Strong sign-in and website security, privacy and data-retention rules, checked by an independent security review.
-- Protection against abuse and overload before public sign-up was opened.
+Looking for a job abroad means checking the same job boards every day, reading the same ads twice, and guessing whether a role really works in English. It eats hours, and the good offers still slip through.
 
-## Roadmap
+Job Hunt does the searching for you. You sign up, and it gathers new roles from several public sources into one clean list, drops duplicates, and keeps the jobs that fit someone who works in English. You open it on your laptop or phone, shortlist what you like, and track where you stand with each application.
 
-**Done**
-- Online hosting with recovery
-- Public sign-up with separate accounts
-- Phone-friendly screens
-- Strong sign-in and website security
-- Privacy and data-retention rules
-- Abuse and load limits
+The result: less time scrolling, fewer missed opportunities, and one calm place for the whole search.
 
-**Next**
+## What it does
+
+- Gathers jobs from several public sources into one list
+- Removes duplicates and filters for English-friendly roles
+- Keeps a personal shortlist and application status
+- Works on phone and laptop
+- Lets anyone sign up, with every user's data kept separate
+
+## Future plans
+
 - More reliable results from public job sources
 - Encrypted private data and recovery
-- Stable long-term operation
-
-**Later**
-- More job sources and notifications
-- Own branding
+- More job sources
+- Notifications for new matching jobs
 
 ---
 
