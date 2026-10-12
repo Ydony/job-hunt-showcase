@@ -5,9 +5,9 @@
 **Status:** live and open for public sign-up.
 
 <!-- progress:start -->
-![progress](https://img.shields.io/badge/progress-91%25-2ea44f)
+![progress](https://img.shields.io/badge/progress-94%25-2ea44f)
 
-`▓▓▓▓▓▓▓▓▓░ 91% (87/96 tasks)`
+`▓▓▓▓▓▓▓▓▓░ 94% (90/96 tasks)`
 <!-- progress:end -->
 
 ## The story
@@ -25,6 +25,7 @@ The result: less time scrolling, fewer missed opportunities, and one calm place 
 - Keeps a personal shortlist and application status
 - Works on phone and laptop
 - Lets anyone sign up, with every user's data kept separate
+- Protected against abuse and overload, with fair limits for every user
 
 ## Future plans
 
